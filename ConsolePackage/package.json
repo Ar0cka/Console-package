@@ -1,6 +1,6 @@
 {
   "name": "com.ar0cka.console",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "console",
   "description": "Console app for testing game and create custom logs",
   "unity": "2022.3",
