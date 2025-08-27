@@ -1,8 +1,8 @@
 ﻿using System;
-using ConsoleApp.ConsoleAttribute;
+using ConsoleApp.Runtime.ConsoleAttribute;
 using UnityEngine;
 
-namespace ConsoleApp
+namespace ConsoleApp.Runtime
 {
     [DefaultExecutionOrder(-100)]
     public class Initialize : MonoBehaviour

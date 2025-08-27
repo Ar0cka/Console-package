@@ -3,7 +3,7 @@ using System.Data;
 using System.IO;
 using UnityEngine;
 
-namespace ConsoleApp
+namespace ConsoleApp.Runtime
 {
     public class Logger : ILogs, IDisposable
     {

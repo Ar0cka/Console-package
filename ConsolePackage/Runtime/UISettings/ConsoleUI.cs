@@ -1,11 +1,12 @@
 ﻿using System;
-using ConsoleApp.ConsoleAttribute;
+using ConsoleApp.Runtime;
+using ConsoleApp.Runtime.ConsoleAttribute;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Serialization;
 using UnityEngine.UI;
 
-namespace ConsoleApp
+namespace ConsoleApp.Runtime
 {
     public class ConsoleUI : MonoBehaviour
     {

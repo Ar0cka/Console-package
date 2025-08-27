@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp
+namespace ConsoleApp.Runtime
 {
     public static class ConsoleLogger
     {

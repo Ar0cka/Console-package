@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp.ConsoleAttribute
+namespace ConsoleApp.Runtime.ConsoleAttribute
 {
     [AttributeUsage(AttributeTargets.Method)]
     public class ConsoleCommand : Attribute

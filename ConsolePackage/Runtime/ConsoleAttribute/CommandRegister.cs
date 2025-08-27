@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Reflection;
-using ConsoleApp.ConsoleAttribute;
 
-namespace ConsoleApp.ConsoleAttribute
+namespace ConsoleApp.Runtime.ConsoleAttribute
 {
     public static class CommandRegister
     {
