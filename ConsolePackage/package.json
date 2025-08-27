@@ -1,11 +1,11 @@
 {
   "name": "com.ar0cka.console",
-  "version": "0.1.1",
-  "displayName": "console",
+  "version": "0.1.2",
+  "displayName": "Console",
   "description": "Console app for testing game and create custom logs",
   "unity": "2022.3",
   "author": {
-    "name": "ivan",
+    "name": "ar0cka",
     "email": "vanoshul@gmail.com"
   },
   "dependencies": {
