@@ -1,6 +1,6 @@
 {
   "name": "com.ar0cka.console",
-  "version": "0.1.3",
+  "version": "0.1.7",
   "displayName": "Console",
   "description": "Console app for testing game and create custom logs",
   "unity": "2022.3",
@@ -10,5 +10,12 @@
   },
   "dependencies": {
     "com.unity.textmeshpro": "3.0.6"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "ConsoleFabs",
+      "description": "Prefab with default UI for the console.",
+      "path": "Samples~/ConsoleDefaultPrefabs"
+    }
+  ]
 }
