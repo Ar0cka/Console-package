@@ -1078,7 +1078,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 7477543575545958369}
   m_Direction: 2
   m_Value: 0
-  m_Size: 0.9578077
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1171,7 +1171,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6396998771972917121}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8f03c24d89c651a49970ab68c1d78a18, type: 3}
+  m_Script: {fileID: 11500000, guid: e5d628e06d8425d4d85ce6a3912f046f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   path: 
@@ -1526,11 +1526,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 8927656777651721913}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 93374968ea42b05409ab09c9c7fe60ae, type: 3}
+  m_Script: {fileID: 11500000, guid: 79693e16fd7324249aa982b36289f883, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   canvas: {fileID: 7770751492289969951}
   inputField: {fileID: 6333693970485541862}
-  logPrefab: {fileID: 851622725616529632, guid: 8038b81147f2f364f8b95238b4f01b23, type: 3}
+  logPrefab: {fileID: 851622725616529632, guid: c511d1094b5c9f54c9cf78f41baefdae, type: 3}
   logContent: {fileID: 7546239277835853315}
   sendButton: {fileID: 5006866214709432505}
