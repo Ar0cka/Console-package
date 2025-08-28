@@ -46,3 +46,12 @@ public static void SayHello()
 }
 ```
 
+Future Plans:
+Visual improvements
+Adding an Editor version of the console
+Adding server interaction
+Improving the console file system
+
+Possible improvements:
+Porting the console to pure C# with a custom renderer
+
