@@ -1,4 +1,4 @@
-##Console Package
+## Console Package
 
 #Installation
 To install the package, open Unity → Package Manager → Add package from git URL and paste the following link:
