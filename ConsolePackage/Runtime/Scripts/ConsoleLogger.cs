@@ -14,8 +14,8 @@ namespace ConsoleApp.Runtime
         public static Action<string> LogAction { get; set; }
         
         public static void Info(string message) => Logs.Log(message);
-        public static void Warning(string message) => Logs.Log(message);
-        public static void Error(string message) => Logs.Log(message);
-        public static void Command(string message) => Logs.Log(message);
+        public static void Warning(string message) => Logs.Warning(message);
+        public static void Error(string message) => Logs.Error(message);
+        public static void Command(string message) => Logs.Command(message);
     }
 }

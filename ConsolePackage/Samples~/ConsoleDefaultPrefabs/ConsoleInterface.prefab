@@ -777,6 +777,7 @@ GameObject:
   - component: {fileID: 7770751492289969951}
   - component: {fileID: 4310178262351921156}
   - component: {fileID: 5157790018739721755}
+  - component: {fileID: 5647157239902957778}
   m_Layer: 5
   m_Name: ConsoleInterface
   m_TagString: Untagged
@@ -867,6 +868,19 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &5647157239902957778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3080027265641869229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2794113e67e431f875849591c753589, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  consoleObject: {fileID: 6396998771972917121}
 --- !u!1 &4260893303371008976
 GameObject:
   m_ObjectHideFlags: 0
@@ -1078,7 +1092,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 7477543575545958369}
   m_Direction: 2
   m_Value: 0
-  m_Size: 1
+  m_Size: 0.9578077
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -1531,6 +1545,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canvas: {fileID: 7770751492289969951}
   inputField: {fileID: 6333693970485541862}
+  sendButton: {fileID: 5006866214709432505}
   logPrefab: {fileID: 851622725616529632, guid: c511d1094b5c9f54c9cf78f41baefdae, type: 3}
   logContent: {fileID: 7546239277835853315}
-  sendButton: {fileID: 5006866214709432505}

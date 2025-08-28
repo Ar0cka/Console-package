@@ -10,11 +10,14 @@ namespace ConsoleApp.Runtime
 {
     public class ConsoleUI : MonoBehaviour
     {
+        [Header("Global settings")]
         [SerializeField] private Canvas canvas;
+        
+        [Header("Console settings")]
         [SerializeField] private TMP_InputField inputField;
+        [SerializeField] private Button sendButton;
         [SerializeField] private GameObject logPrefab;
         [SerializeField] private Transform logContent;
-        [SerializeField] private Button sendButton;
 
         public void Initialize()
         {
