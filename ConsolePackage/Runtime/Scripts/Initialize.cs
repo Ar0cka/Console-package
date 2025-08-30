@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace ConsoleApp.Runtime
 {
-    [DefaultExecutionOrder(-100)]
+    [DefaultExecutionOrder(-500)]
     public class Initialize : MonoBehaviour
     {
         [SerializeField] private string path;
