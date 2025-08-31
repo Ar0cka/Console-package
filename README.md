@@ -3,7 +3,7 @@
 # Installation
 To install the package, open Unity → Package Manager → Add package from git URL and paste the following link:
 ```bash
-https://github.com/Ar0cka/Console-package.git?path=ConsolePackage#v0.2.3
+https://github.com/Ar0cka/Console-package.git?path=ConsolePackage#v0.2.4
 ```
 
 After installation, go to the Samples tab in the Package Manager and import the provided assets.
