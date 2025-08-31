@@ -13,6 +13,8 @@ namespace ConsoleApp.Runtime
         
         private void Awake()
         {
+            DontDestroyOnLoad(gameObject);
+            
             path = !string.IsNullOrEmpty(path) ? path : CreateFileInDocuments();
             
             ConsoleLogger.InitializeLogs(new Logger(path));
